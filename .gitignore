@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Env & secrets
+.env
+*.env
+
+# Node / frontend build
+node_modules/
+dist/
+
+# Uploads & generated outputs
+uploads/
+outputs/
+backend/uploads/
+backend/outputs/
+
+# Logs & editors
+*.log
+.idea/
+.vscode/
+.DS_Store
